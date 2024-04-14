@@ -5,28 +5,7 @@
 
 "spider":"./cr.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
 
-"lives":[
-    
- {
-      "name": "直播",
-      "type": 0,
-      "playerType": 1,
-      "url": "./lib/ygzb.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-          "urls": [
-            "proxy://do=live&type=txt&ext=http://home.jundie.top:81/ray/tvlive.txt"
-          ]
-        }
-      ]
-    }],
+
 "sites":[
 {
             "key": "js豆瓣1",
