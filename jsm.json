@@ -7,18 +7,9 @@
 
 
 "sites":[
-{
-            "key": "js豆瓣1",
-            "name": "午夜影视",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/douban.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
 
  {"key": "快云资源","name": "🔞快云资源","type": 1,"api": "https://kuaiyun-api.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"style": {"type": "rect","ratio": 1.33},"categories": ["伦理片"]}, 
+
 
 
 
