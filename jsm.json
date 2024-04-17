@@ -7,7 +7,7 @@
 
 
 "sites":[
-{"key": "快云资源","name": "㍰橙色影院","type": 1,"api": "https://kuaiyun-api.com/api.php/provide/vod/","searchable": 1,"quic
+{"key": "快云资源","name": "㍰橙色影院","type": 1,"api": "https://kuaiyun-api.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"style": {"type": "rect","ratio": 1.33},"categories": ["伦理片"]}, 
 
 {
 "key": "jable",
@@ -34,7 +34,7 @@
 "播放列表":"<a&&/a>",
 "播放标题":">&&<",
 "播放链接":"href=\"&&\"",
-"分类":"最近更新$latest-updates#最新上市$new-release#主奴调教$categories/bdsm#字幕$categories/chinese-subtitle#凌辱$categorie
+"分类":"最近更新$latest-updates#最新上市$new-release#主奴调教$categories/bdsm#字幕$categories/chinese-subtitle#凌辱$categories/rape#制服$categories/uniform#角色$categories/roleplay#偷拍$categories/hidden-cam#无码解码$categories/uncensored#多P$categories/groupsex#丝袜$categories/pantyhose",
 "分类url":"https://jable.tv/{cateId}/{catePg}/",
 "免嗅":"0",
 "嗅探词":".m3u8#.mp4"
@@ -66,14 +66,14 @@
         ]
     },
  
-{ "key": "鸡坤资源", "name": "🈲怡红院", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 0, "qui
+{ "key": "鸡坤资源", "name": "🈲怡红院", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 0, "quickSearch": 0, "filterable": 0 },
 
-{"key":"9号资源","name":"🈲品香阁","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch"
+{"key":"9号资源","name":"🈲品香阁","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
 
-{"key": "滴滴资源","name": "🈲探花楼","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/at/xml", "searchable": 0,"qui
-{"key": "蛋蛋视频","name": "🈲私密影院","type": 1,"api": "https://156.249.29.8/inc/apijson_vod.php", "searchable": 0,"quickSea
+{"key": "滴滴资源","name": "🈲探花楼","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/at/xml", "searchable": 0,"quickSearch": 0, "filterable": 0 },
+{"key": "蛋蛋视频","name": "🈲私密影院","type": 1,"api": "https://156.249.29.8/inc/apijson_vod.php", "searchable": 0,"quickSearch": 0, "filterable": 0 },
 
-{"key": "玉兔资源","name": "🈲后花园","type": 1,"api": "https://yutuzy3.com/api.php/provide/vod/?ac=list", "searchable": 0,"qu
+{"key": "玉兔资源","name": "🈲后花园","type": 1,"api": "https://yutuzy3.com/api.php/provide/vod/?ac=list", "searchable": 0,"quickSearch": 0, "filterable": 0 }, 
 
 
 
@@ -138,35 +138,35 @@
     },
     
 
-{"key":"csp_xBPQ_香蕉AV解说","name":"🈲红袖招","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"
-{"key":"csp_xBPQ_香蕉资源","name":"🈲飘香院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./
-{"key":"csp_xBPQ_香蕉超清","name":"🈲万花楼","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./
-{"key":"csp_xBPQ_香蕉国产","name":"🈲慧贤楼","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./
-{"key":"csp_xBPQ_香蕉久久热","name":"🈲藏香阁","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"
-{"key":"csp_xBPQ_香蕉废柴","name":"🈲潇湘馆","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./
-{"key":"csp_xBPQ_香蕉搜索","name":"🈲百花楼","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./
-{"key":"csp_xBPQ_香蕉直播","name":"🈲寻芳阁","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./
+{"key":"csp_xBPQ_香蕉AV解说","name":"🈲红袖招","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉解说.json","jar":"./lib/Yoursmile2.jar"},
+{"key":"csp_xBPQ_香蕉资源","name":"🈲飘香院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉资源.json","jar":"./lib/Yoursmile2.jar"},
+{"key":"csp_xBPQ_香蕉超清","name":"🈲万花楼","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉超清.json","jar":"./lib/Yoursmile2.jar"},
+{"key":"csp_xBPQ_香蕉国产","name":"🈲慧贤楼","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉国产.json","jar":"./lib/Yoursmile2.jar"},
+{"key":"csp_xBPQ_香蕉久久热","name":"🈲藏香阁","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉久久热.json","jar":"./lib/Yoursmile2.jar"},
+{"key":"csp_xBPQ_香蕉废柴","name":"🈲潇湘馆","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉废柴.json","jar":"./lib/Yoursmile2.jar"},
+{"key":"csp_xBPQ_香蕉搜索","name":"🈲百花楼","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉搜索.json","jar":"./lib/Yoursmile2.jar"},
+{"key":"csp_xBPQ_香蕉直播","name":"🈲寻芳阁","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉直播.json","jar":"./lib/Yoursmile2.jar"},
 
-{"key":"csp_xBPQ_麻豆映画","name":"🈲凝心阁","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./
+{"key":"csp_xBPQ_麻豆映画","name":"🈲凝心阁","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/麻豆映画.json","jar":"./lib/Yoursmile2.jar"},
 
 
 
-{"key":"*色南国资源","name":"🈲藏经阁","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":0,"quickSea
+{"key":"*色南国资源","name":"🈲藏经阁","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
 {"key":"*皇冠资源","name":"㊙️牡丹楼","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key": "*AIvin","name": "㊙️禹香苑","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
 
 
-{"key":"*色猫资源","name":"㊙️伊人坊","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearc
+{"key":"*色猫资源","name":"㊙️伊人坊","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 
-{"key":"*大MM资源","name":"㊙️满园春色","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml","searchable":0,
+{"key":"*大MM资源","name":"㊙️满园春色","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"*美少女资源","name":"㊙️百花园","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"*淫水机资源","name":"㊙️百乐坊","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"*香奶儿资源","name":"㊙️淡月斋","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"*白嫖资源","name":"㊙️蓝若庭","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"*大地资源","name":"㊙️迎春院","type":0,"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
-{"key":"*CK资源","name":"㊙️快活影院","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":0,"quickSearc
-{"key":"*老鸭资源","name":"㊙️金凤凰影院","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickS
+{"key":"*CK资源","name":"㊙️快活影院","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*老鸭资源","name":"㊙️金凤凰影院","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {
   "key": "老鸭2",
   "name": "㊙️丽春院",
@@ -287,13 +287,13 @@
   "api": "https://api.apilyzy.com/api.php/provide/vod/",
   "searchable": 0
 },
-{"key":"*乐播资源","name":"🔞蝴蝶楼","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0}
+{"key":"*乐播资源","name":"🔞蝴蝶楼","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*博天堂","name":"🔞风月轩","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
 
-    { "key": "KpgxdyE", "name": "🔞凌波馆", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSea
+    { "key": "KpgxdyE", "name": "🔞凌波馆", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 
 
-{"key":"*狼少年","name":"🔞锦绣官","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch"
+{"key":"*狼少年","name":"🔞锦绣官","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
 {"key":"*番号资源","name":"🔞红杏馆","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
 
