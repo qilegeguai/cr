@@ -106,6 +106,7 @@
       "name": "📀玩偶妹妹(优)",
       "type": 3,
       "api": "csp_XYQHikerAL",
+      "jar": "./lib/xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
