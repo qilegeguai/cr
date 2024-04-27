@@ -93,7 +93,7 @@
 	"sites":[
 		   {
       "key": "*色猫资源",
-      "name": "*色猫资源",
+      "name": "环采阁",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "searchable": 1,
@@ -101,7 +101,7 @@
     },
     {
       "key": "*色南国资源",
-      "name": "*色南国资源",
+      "name": "媚香楼",
       "type": 1,
       "api": "https://api.sexnguon.com/api.php/provide/vod/",
       "searchable": 1,
@@ -110,7 +110,7 @@
 
     {
       "key": "*麻豆视频2",
-      "name": "*麻豆视频2",
+      "name": "燕春楼",
       "type": 1,
       "api": "https://madouse.la/api.php/provide/vod/",
       "searchable": 1,
@@ -118,7 +118,7 @@
     },
     {
       "key": "*蛋蛋视频",
-      "name": "*蛋蛋视频",
+      "name": "秦淮阁",
       "type": 1,
       "api": "https://156.249.29.8/inc/apijson_vod.php",
       "searchable": 1,
@@ -126,7 +126,7 @@
     },
     {
       "key": "*91麻豆",
-      "name": "*91麻豆",
+      "name": "月来店",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 1,
@@ -134,7 +134,7 @@
     },
     {
       "key": "(18+)环亚资源",
-      "name": "(18+不错)环亚资源",
+      "name": "莳花会馆",
       "type": 0,
       "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
@@ -143,7 +143,7 @@
     },
     {
       "key": "ms4nii",
-      "name": "美少女资源(已修复)",
+      "name": "金秀花园",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -152,7 +152,7 @@
     },
     {
       "key": "KxrbspE",
-      "name": "淫水机资源(已修复)",
+      "name": "满春院",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 1,
@@ -161,7 +161,7 @@
     },
     {
       "key": "gdlsE",
-      "name": "香奶儿资源(已修复)",
+      "name": "快活林",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 1,
@@ -170,7 +170,7 @@
     },
     {
       "key": "kxgav",
-      "name": "白嫖资源(已修复)",
+      "name": "桂月楼",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
@@ -179,7 +179,7 @@
     },
     {
       "key": "afasu",
-      "name": "小湿妹资源(已修复)",
+      "name": "三井茶社",
       "type": 0,
       "api": "https://www.afasu.com/api/xml.php",
       "searchable": 1,
@@ -188,7 +188,7 @@
     },
     {
       "key": "KpgxdyE",
-      "name": "黄AV资源(已修复)",
+      "name": "闻香院",
       "type": 0,
       "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
@@ -197,7 +197,7 @@
     },
     {
       "key": "ap4i156dlyE",
-      "name": "奶茶资源(已修复)",
+      "name": "盘丝洞",
       "type": 0,
       "api": "https://caiji.naichaapi.com/inc/api.php",
       "searchable": 1,
@@ -206,7 +206,7 @@
     },
     {
       "key": "api.apilyzy.com",
-      "name": "成人71",
+      "name": "取精阁",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "quickSearch": 1,
@@ -215,7 +215,7 @@
     },
     {
       "key": "大地采集",
-      "name": "🔞大地av",
+      "name": "凤林院",
       "type": 0,
       "api": "https://dadiapi.com/apple_m3u8.php",
       "playUrl": "https://play.dadiapi.com/watch?url=",
@@ -225,7 +225,7 @@
     },
     {
       "key": "pgxdy",
-      "name": "🔞PGX电影",
+      "name": "八宝斋",
       "type": 0,
       "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
@@ -234,7 +234,7 @@
     },
     {
       "key": "zp128",
-      "name": "🔞鲨鱼影视",
+      "name": "藏精阁",
       "type": 0,
       "api": "https://shayuapi.com/api.php/Seacms/vod/at/xml/",
       "searchable": 1,
@@ -243,7 +243,7 @@
     },
     {
       "key": "*易看资源",
-      "name": "🔞易看资源",
+      "name": "闻淋屋",
       "type": 1,
       "api": "https://api.yikanapi.com/api.php/provide/vod/",
       "searchable": 0,
@@ -252,7 +252,7 @@
     },
     {
       "key": "*番号资源",
-      "name": "🔞番号资源",
+      "name": "攀月楼",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 0,
@@ -261,7 +261,7 @@
     },
     {
       "key": "xrbsp.com",
-      "name": "成人66",
+      "name": "快活林",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "quickSearch": 1,
