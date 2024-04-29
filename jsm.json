@@ -1,5 +1,5 @@
 {
-	"spider":"./pg.jar",
+	"spider":"./aa.jar",
 	"lives":[
 			{
 				"name": "live.ipv6",
