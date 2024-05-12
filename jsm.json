@@ -92,6 +92,15 @@
 			}
 		],
 	"sites":[
+		    {
+      "key": "ms4nii",
+      "name": "金秀花园",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 		   {
       "key": "*色猫资源",
       "name": "环采阁",
@@ -142,15 +151,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "ms4nii",
-      "name": "金秀花园",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "KxrbspE",
       "name": "满春院",
