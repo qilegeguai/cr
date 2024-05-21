@@ -105,6 +105,7 @@
   "key": "小幺女|床吧",
   "name": "小幺女",
   "type": 3,
+ "jar":"./lib/XBPQ.jar",		
   "playerType": 2,
   "api": "csp_XBPQ",
   "searchable": 1,
